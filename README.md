@@ -83,3 +83,4 @@ I'm more of a hacker-PM than a software engineer — but here are a few things t
 - Day 1 Apple Pay launch is still one of my favorite things I've ever worked on.
 - I coach PMs on the side and love helping engineers cross over into product (and vice versa).
 - I'm based in Chicago. Find me on the lakefront path or shipping at a coffee shop in the West Loop.
+
